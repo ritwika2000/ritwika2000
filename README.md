@@ -1,4 +1,4 @@
-                                                           Hi ![](https://github.com/ritwika2000/wave.gif),I'm Ritwika Basak
+                                                           Hi 👋,I'm Ritwika Basak
 
 
 <!--
