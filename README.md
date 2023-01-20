@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing MCA 
+- 🔭 I’m currently pursuing MCA from Jadavpur University
 - 🌱 I’m currently learning web devlopment
 - 👯 I’m interested on coding and ML
 - 👯 I’m looking to collaborate on web projects
