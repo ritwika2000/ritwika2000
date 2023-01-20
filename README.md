@@ -1,5 +1,4 @@
-                                                           Hi ![image](https://user-images.githubusercontent.com/93679062/213657658-daa877da-5bd6-40d3-9937-d988455cd2c0.png)
-,I'm Ritwika Basak
+                                                           Hi![](wave.gif),I'm Ritwika Basak
 
 
 <!--
