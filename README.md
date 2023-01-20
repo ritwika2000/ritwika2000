@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+                                         ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 - 🔭 I’m currently pursuing MCA from Jadavpur University
 - 🌱 I’m currently learning web devlopment
 - 👯 I’m interested on coding and ML
